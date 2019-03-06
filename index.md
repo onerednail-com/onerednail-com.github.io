@@ -14,7 +14,7 @@ The left hand ring finger's nail is painted red.
 
 ### Penn and Teller, and Penn Jillette's Fingernail
 
-> I've like Penn and Teller for many years. Their excellent TV series *Bullshit!* (2003) was influential in my early philosophical development. Besides being incredibly skilled *technically,* their stagecraft is second-to-none. (A fact highlighted by their holding the record of longest running headline show in Vegas, ever. Excluding some tragedy, this will continue til at least 2022.)
+> I've liked Penn and Teller for many years. Their excellent TV series *Bullshit!* (2003) was influential in my early philosophical development. Besides being incredibly skilled *technically,* their stagecraft is second-to-none. (A fact highlighted by their holding the record of longest running headline show in Vegas, ever. Excluding some tragedy, this will continue til at least 2022.)
 >
 > This is not their best quality, though. They are uncommon for a far more important reason. Throughout their career they *regularly and consistently* educate their audience (both implicitly and explicitly) on the importance of *philosophy, epistemology, and morality*; including practical ideas like the importance of *freedom, democracy, rationality, and tolerance* (in the Popperian sense).
 >
