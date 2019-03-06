@@ -39,11 +39,11 @@ But there is no symbol for *the most foundation values* we can understand: that 
 
 To be moral is **not** to be picky in the choice of morals. It is to be so dedicated to the idea of morality that we *adopt the best ideas regardless of our predilections*. Our best ideas on reality tell us we cannot choose the truth, in physics or morality. That we cannot manipulate reality to be how we *want* it to be, but must follow *the best ideas* regardless of our preconceived notions on them.
 
-This is what one red nail symbolises: valuing the progress, discussion, cycle of criticism and conjecture, quality of ideas, and the significance these things mean for our person and humanity. Valuing them above the beliefs and biases thrust upon us by society, social norms, and subpar education systems. Living these values every day and *choosing* to. *Wanting* these things. It's not that this desire is a free choice like a flavour of ice cream is a free choice. It is something adopted because *there is no better alternative*, and to reject it is abhorrence incarnate.
+This is what *one red nail* symbolises: the value of progress, discussion, cycles of criticism and conjecture, quality of ideas, and the significance these things mean for us person and as part of humanity. Valuing them above the beliefs and biases thrust upon us by society, social norms, and subpar education systems. Living these values every day and *choosing* to. *Wanting* these things. It's not that this desire is a "free" choice like a flavour of ice cream is a "free" choice. It is something adopted because *there is no better alternative*, and to reject it becomes abhorrence incarnate.
 
 No subject is taboo. No authority is superior to reason. No belief trumps explanation.
 
-Good morality compels behaviour. It is our responsibility to ensure each of our moralities is the best it can be, even if that is a difficult, painful journey. The alternative is so much worse.
+Good morality compels behaviour. It is our responsibility to ensure each of our moralities is the best it can be, even if that is a difficult, or painful journey. The alternative is so much worse.
 
 It is a symbol of these values, and a commitment to live them all the days we live. Above all else.
 
