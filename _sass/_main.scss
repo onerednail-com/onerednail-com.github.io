@@ -6,6 +6,11 @@ body .gist .gist-file .gist-data .readme article {
     padding: 2rem;
 }
 
+body .gist .gist-file .gist-data .markdown-body blockquote {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 /*
 
   Pixyll
