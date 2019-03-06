@@ -1,4 +1,13 @@
 @charset "UTF-8";
+
+// technique for styling gist from https://codersblock.com/blog/customizing-github-gists/
+
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono');
+
+body .gist .gist-file .gist-data .readme article {
+    padding: 2rem;
+}
+
 /*
 
   Pixyll
