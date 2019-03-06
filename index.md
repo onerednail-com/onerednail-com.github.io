@@ -59,13 +59,13 @@ onerednail@xk.io
 
 ### Where would I go if I care about my ideas being the best they can be?
 
-Start with https://fallibleideas.com
+Start with [https://fallibleideas.com](https://fallibleideas.com)
 
 (And read The Beginning of Infinity)
 
 ### Is there a political movement you endorse?
 
-One; the one I started: https://voteflux.org
+One; the one I started: [https://voteflux.org](https://voteflux.org)
 
 ### What is the timeline?
 
