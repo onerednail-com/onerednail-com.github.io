@@ -27,15 +27,25 @@ The left hand ring finger's nail is painted red.
 >
 > Obviously, it doesn't make much sense for me to do the same thing for the same reason. I chose this as the symbol because I think Penn and Teller are excellent, thoughtful people, and because it is *visible, non-permanent, unaffiliated, and rejects arbitrary social norms*. It's also easy, inexpensive, somewhat striking, otherwise socially unencumbered, and personal. 
 
+-- Max Kaye
+
 ## The Symbol
+
+> Whenever there has been progress, there have been influential thinkers who denied that it was genuine, that it was desirable, or even that the concept was meaningful. **They should have known better.**
+
+-- *David Deutsch, The Beginning of Infinity (2011)* (emphasis mine)
 
 > We believe that we invent symbols. The truth is that they invent us; we are their creatures, shaped by their hard, defining edges.
 
 -- *Gene Wolfe, The Shadow of the Torturer (1980)*
 
-There is no common symbol representing a dedication to good ideas and integrating them into daily life. We have symbols for all kinds of things: religious status, military rank, marital status, subculture membership, education, political affiliation, podcasts we like, books we read, games we play, languages we write. 
+There are lots of common symbols we carry and wear. Necklaces for religious status; insignias for military ranks; rings for marital status; flags for citizenship and loyalty; garments for subculture membership; titles for education; logos for political affiliation; and myriad more for podcasts we enjoy, books we read, games we play, languages we write. Embracing them *changes* us, and our relationships. They're symbols of dedication, or values, or tastes, or ideas.
 
-But there is no symbol for *the most foundation values* we can understand: that our values - in and of themselves - are things we choose. And particularly: *the rejection of arbitrary choice* in favour of the ideas *we cannot refute*, and the acceptance of our *responsibility* to live these values in day to day life.
+But there is no symbol for what I want. I care deeply about our time on this planet, and I care about the success of our collective legacy. It's entirely possible that the spark of humanity in this universe will one day be snuffed out. But **there is no reason it need be that way**. No law of physics demands human suffering, and *every one of our problems, personal and social, is soluble* (Beginning of Infinity (BoI), chapters 3 and 9).
+
+To solve these problems, and all our future problems, is a journey that is neither easy, nor finite. 
+
+*the most foundation values* we can understand: that our values - in and of themselves - are things we choose. And particularly: *the rejection of arbitrary choice* in favour of the ideas *we cannot refute*, and the acceptance of our *responsibility* to live these values in day to day life.
 
 To be moral is **not** to be picky in the choice of morals. It is to be so dedicated to the idea of morality that we *adopt the best ideas regardless of our predilections*. Our best ideas on reality tell us we cannot choose the truth, in physics or morality. That we cannot manipulate reality to be how we *want* it to be, but must follow *the best ideas* regardless of our preconceived notions on them.
 
@@ -71,5 +81,5 @@ One; the one I started: [https://voteflux.org](https://voteflux.org)
 
 I started doing this on Saturday 2nd March 2019.
 
-The website was first publishing on 6th March 2019.
+This page first published 6th March 2019.
 
