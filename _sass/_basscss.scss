@@ -120,15 +120,15 @@ strong, .bold {
 }
 
 .measure {
-  max-width: 48rem;
+  max-width: 60rem;
 }
 
 .measure-narrow {
-  max-width: 32rem;
+  max-width: 40rem;
 }
 
 .measure-wide {
-  max-width: 60rem;
+  max-width: 75rem;
 }
 
 .leading-1 {
@@ -283,7 +283,7 @@ strong, .bold {
 }
 @media screen and (min-width: 64em) {
   .m-responsive {
-    margin: 4rem;
+    margin: 3rem;
   }
 
   .mt-responsive {
@@ -374,6 +374,21 @@ strong, .bold {
 
 @media screen and (min-width: 48em) and (max-width: 64em) {
   .p-responsive {
+    padding: 2.25rem;
+  }
+
+  .px-responsive {
+    padding-right: 2.25rem;
+    padding-left: 2.25rem;
+  }
+
+  .py-responsive {
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
+  }
+}
+@media screen and (min-width: 64em) {
+  .p-responsive {
     padding: 3rem;
   }
 
@@ -385,21 +400,6 @@ strong, .bold {
   .py-responsive {
     padding-top: 3rem;
     padding-bottom: 3rem;
-  }
-}
-@media screen and (min-width: 64em) {
-  .p-responsive {
-    padding: 4rem;
-  }
-
-  .px-responsive {
-    padding-right: 4rem;
-    padding-left: 4rem;
-  }
-
-  .py-responsive {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
   }
 }
 .inline {
