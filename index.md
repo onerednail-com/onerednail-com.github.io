@@ -69,7 +69,7 @@ One; the one I started: https://voteflux.org
 
 ### What is the timeline?
 
-Max started doing this on Saturday 2nd March 2019.
+I started doing this on Saturday 2nd March 2019.
 
 The website was first publishing on 6th March 2019.
 
