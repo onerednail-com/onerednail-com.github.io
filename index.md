@@ -23,7 +23,7 @@ The left hand ring finger's nail is painted red.
 > Penn Jillette has, for decades, painted his left hand ring finger's nail red.
 >> People asking about my red fingernail. It's for my mom. I wear my dad's ring and my mom's nail polish.  It reminds me of them.  Momma's boy.
 >
-> -- *[Penn Jillette, 12th May 2012](https://twitter.com/pennjillette/status/201916503807893505?s=21)*
+> -- *[Penn Jillette, 14th May 2012](https://twitter.com/pennjillette/status/201916503807893505?s=21)*
 >
 > Obviously, it doesn't make much sense for me to do the same thing for the same reason. I chose this as the symbol because I think Penn and Teller are excellent, thoughtful people, and because it is *visible, non-permanent, unaffiliated, and rejects arbitrary social norms*. It's also easy, inexpensive, somewhat striking, otherwise socially unencumbered, and personal. 
 
