@@ -1,0 +1,29 @@
+# Site settings
+title: One Red Nail
+email: onerednail@xk.io
+author: Max Kaye
+description: "One Red Nail"
+baseurl: ""
+url: "https://onerednail.com"
+google_analytics: "UA-50153179-3"
+animated: false
+show_related_posts: false
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 20
+gems: [jekyll-paginate]
+sass:
+  compressed: true
+
+# Page settings
+page.small: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      postlet: false
