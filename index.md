@@ -49,25 +49,25 @@ It is a symbol of these values, and a commitment to live them all the days we li
 
 ## FAQ
 
-#### Does this have any relation to the *Polished Man* campaign from 2015?
+### Does this have any relation to the *Polished Man* campaign from 2015?
 
 No.
 
-#### Contact
+### Contact
 
 onerednail@xk.io
 
-#### Where would I go if I care about my ideas being the best they can be?
+### Where would I go if I care about my ideas being the best they can be?
 
 Start with https://fallibleideas.com
 
 (And read The Beginning of Infinity)
 
-#### Is there a political movement you endorse?
+### Is there a political movement you endorse?
 
 One; the one I started: https://voteflux.org
 
-#### What is the timeline?
+### What is the timeline?
 
 Max started doing this on Saturday 2nd March 2019.
 
